@@ -1,0 +1,9 @@
+.text-pgm {
+    font-size: 3vw;
+    text-align: center;
+    text-transform: lowercase;
+    font-weight: 700;
+    text-shadow: 0 2px 2px black;
+    color: white;
+    padding-top: 50%;
+}
